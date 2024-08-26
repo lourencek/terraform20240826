@@ -1,1 +1,1 @@
-# mkdir snowflake-terraform && cd snowflake-terraform
+# ke-terraform
